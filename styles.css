@@ -5,10 +5,7 @@ text-align: right;
 }
 
 .flex-item img{
-     width: right;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    
     }
 .flex-item:hover {               
     transform: scale(1.02);  
